@@ -2,7 +2,7 @@
 # 💫 Hi 👋, I'm Amr Salah
 **Flutter Developer || Android Native **
 
-Email Me 👉 ✉️ **amrsalahdev71.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **amrsalahdev71@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** BarinBox AI ChatBot
 - 💬 **Ask me about:** Collaboration, Tech Support
