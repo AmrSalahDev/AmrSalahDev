@@ -1,4 +1,3 @@
-
 <h1 align="left">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
@@ -11,8 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=200&center=true&vCenter=true&width=700&lines=Flutter+Developer;Android+Native+Developer;Clean+Architecture+Advocate;BLoC+%7C+Cubit+State+Management;Hive+%7C+SharedPreferences+Expert;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%94%A1" alt="Typing SVG" />
   </a>
 </p>
-
-
 
 
 Email Me 👉 ✉️ **amrsalahdev71@gmail.com** For Collaboration/Project or Anything Else. 😊😊
