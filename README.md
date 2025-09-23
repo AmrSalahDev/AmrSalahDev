@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/AmrSalahDev/AmrSalahDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Android+Native+Developer;Clean+Architecture+Advocate;BLoC+%7C+Cubit+State+Management;Hive+%7C+SharedPreferences+Expert;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%94%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=200&center=true&vCenter=true&width=700&lines=Flutter+Developer;Android+Native+Developer;Clean+Architecture+Advocate;BLoC+%7C+Cubit+State+Management;Hive+%7C+SharedPreferences+Expert;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%94%A1" alt="Typing SVG" />
   </a>
 </p>
 
