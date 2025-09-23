@@ -1,13 +1,16 @@
 
 <h1 align="left">
-  💫 Hi, I'm Amr Salah
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  💫 Hi 
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  , I'm Amr Salah
+ 
 </h1>
+
 **Flutter Developer || Android Native **
 
 Email Me 👉 ✉️ **amrsalahdev71@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** BarinBox AI ChatBot
+- 🔭 **I’m currently working on:** Evira E-Commerce App
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** amrsalahdev71@gmail.com
 - 😄 **Pronouns:** Amr Sir
