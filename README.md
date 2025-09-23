@@ -59,4 +59,8 @@ Email Me 👉 ✉️ **amrsalahdev71@gmail.com** For Collaboration/Project or An
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amrsalahdev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AmrSalahDev) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/AmrSalahDev/Evira-E-Commerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrSalahDev&repo=Evira-E-Commerce&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Evira-E-Commerce" />
+</a>
